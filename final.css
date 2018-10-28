@@ -1,0 +1,30 @@
+.headline {
+    text-align:center;
+	font-weight:bold;
+	font-style:italic;
+	font-size:30px;
+	padding-top: : 50px;
+}
+.headline2 {
+	text-align:center;
+	font-style:italic;
+	color:#468987;
+}
+
+.navbar-inverse {
+    background-color: rgba(160,160,160,.4);
+}
+.navbar-fixed-top, .navbar-fixed-bottom {
+    position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+}
+@media all and (min-width: 768px) {
+	}
